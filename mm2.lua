@@ -207,7 +207,7 @@ return {
 		["yellow seer"] = 2,
 	},
 	Legendary = {
-		["Bubbles"] = 10,
+		["bubbles"] = 10,
 		["jd"] = 35,
 		["latte (gun)"] = 220,
 		["latte (knife)"] = 220,
