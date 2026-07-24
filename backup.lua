@@ -15,6 +15,9 @@ return {
 		["icewing"] = 15,
 	},
 	Chroma = {
+		["chroma sands"] = 2500,
+		["chroma beachy"] = 2500,
+		["chroma icecream"] = 10000,
 		["chroma traveler's gun"] = 220000,
 		["chroma evergun"] = 76000,
 		["chroma evergreen"] = 60000,
@@ -77,6 +80,9 @@ return {
 		["splitter"] = 3,
 	},
 	Godly = {
+		["icecream"] = 250,
+		["beachy"] = 250,
+		["sands"] = 250,
 		["traveler's gun"] = 5250,
 		["evergun"] = 3450,
 		["constellation"] = 2725,
@@ -201,6 +207,7 @@ return {
 		["yellow seer"] = 2,
 	},
 	Legendary = {
+		["bubbles"] = 10,
 		["jd"] = 35,
 		["latte (gun)"] = 220,
 		["latte (knife)"] = 220,
