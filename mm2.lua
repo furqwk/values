@@ -672,6 +672,7 @@ return {
 		["infected (knife)"] = 0.5,
 		["infected"] = 0.5,
 		["neon"] = 0.5,
+		["duckies"] = 0.5,
 		["tnl"] = 0.5,
 		["gifts (gun)"] = 0.333,
 		["snowflakes (knife)"] = 0.333,
