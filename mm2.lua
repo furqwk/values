@@ -242,7 +242,7 @@ return {
 		["frostfade (knife)"] = 2,
 		["blue scratch"] = 2,
 		["ghost (gun)"] = 2,
-		["bubbles"] = 1.0,
+		["bubbles"] = 0.3,
 		["chromatic (knife)"] = 1.0,
 		["icecracker"] = 1.0,
 		["red fire"] = 1.0,
