@@ -646,7 +646,7 @@ return {
 		["slime (knife)"] = 2,
 		["indy"] = 2,
 		["slashed"] = 1.0,
-		["bats (gun)"] = 1.0,
+		["bats (gun)"] = 0.667,
 		["grave (knife)"] = 1.0,
 		["haunted (gun)"] = 1.0,
 		["haunted (knife)"] = 1.0,
