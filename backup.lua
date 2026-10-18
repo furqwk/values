@@ -231,7 +231,7 @@ return {
 		["jd"] = 28,
 		["arctic (gun)"] = 10,
 		["embergun"] = 10,
-		["emberknife"] = 10
+		["emberknife"] = 10,
 		["cavern (knife)"] = 7,
 		["broken"] = 7,
 		["icedriller"] = 5,
